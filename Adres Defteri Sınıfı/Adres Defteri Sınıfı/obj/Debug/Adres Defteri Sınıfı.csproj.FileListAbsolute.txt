@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\obj\Debug\Adres Defteri Sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\bin\Debug\Adres Defteri Sınıfı.exe.config
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\bin\Debug\Adres Defteri Sınıfı.exe
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\bin\Debug\Adres Defteri Sınıfı.pdb
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\obj\Debug\Adres Defteri Sınıfı.exe
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\obj\Debug\Adres Defteri Sınıfı.pdb
+C:\Users\Muhammed\source\repos\Adres Defteri Sınıfı\Adres Defteri Sınıfı\obj\Debug\Adres Defteri Sınıfı.csproj.AssemblyReference.cache

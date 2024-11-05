@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\bin\Debug\Banka Hesabı Sınıfı.exe.config
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\bin\Debug\Banka Hesabı Sınıfı.exe
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\bin\Debug\Banka Hesabı Sınıfı.pdb
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\obj\Debug\Banka Hesabı Sınıfı.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\obj\Debug\Banka Hesabı Sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\obj\Debug\Banka Hesabı Sınıfı.exe
+C:\Users\Muhammed\source\repos\Banka Hesabı Sınıfı\Banka Hesabı Sınıfı\obj\Debug\Banka Hesabı Sınıfı.pdb

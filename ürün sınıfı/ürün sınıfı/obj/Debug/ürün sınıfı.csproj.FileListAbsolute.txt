@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\obj\Debug\ürün sınıfı.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\obj\Debug\ürün sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\bin\Debug\ürün sınıfı.exe.config
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\bin\Debug\ürün sınıfı.exe
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\bin\Debug\ürün sınıfı.pdb
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\obj\Debug\ürün sınıfı.exe
+C:\Users\Muhammed\source\repos\ürün sınıfı\ürün sınıfı\obj\Debug\ürün sınıfı.pdb

@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\obj\Debug\Kütüphane Sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\bin\Debug\Kütüphane Sınıfı.exe.config
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\bin\Debug\Kütüphane Sınıfı.exe
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\bin\Debug\Kütüphane Sınıfı.pdb
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\obj\Debug\Kütüphane Sınıfı.exe
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\obj\Debug\Kütüphane Sınıfı.pdb
+C:\Users\Muhammed\source\repos\Kütüphane Sınıfı\Kütüphane Sınıfı\obj\Debug\Kütüphane Sınıfı.csproj.AssemblyReference.cache
